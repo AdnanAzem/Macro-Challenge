@@ -7,6 +7,7 @@ In this project we recieved 3 csv file:
   <li>validation_dataset.csv</li>
   <li>test_dataset_without_labels.csv</li>
 </ol>
+and the target is to classify the data into white or mal.<br><br>
 
 <b>What is VBA Code?</b><br>
 VBA coding refers to writing instructions in the Visual Basic for Applications (VBA) language to create macros, automate tasks, and add custom functionality to Excel.<br><br>
